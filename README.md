@@ -1,0 +1,2 @@
+# tonttery
+TON based Lottery
